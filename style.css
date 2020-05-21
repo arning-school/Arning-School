@@ -258,7 +258,10 @@ h2{
         font-size: 1.2rem;
     }
     
-/*     subscribe-text */
+/*     subscribe*/
+    #subscribe{
+    padding: 1%;
+    }
         .subscribe-text{
             font-size: larger;
     }
