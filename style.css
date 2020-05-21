@@ -257,6 +257,11 @@ h2{
     .services-text{
         font-size: 1.2rem;
     }
+    
+/*     subscribe-text */
+        .subscribe-text{
+            font-size: larger;
+    }
 
     /* testimonials */
     .customer-list{
