@@ -297,6 +297,9 @@ h5{
     .live-practical-intro-video{
         width: 100%;
     }
+    .courses-details-heading{
+        font-size: larger;
+    }
     .courses{
         padding-bottom: 10%;
     }
