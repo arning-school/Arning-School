@@ -375,4 +375,22 @@ h5{
         line-height: normal;
         padding-bottom: 2%;
     }
+    /* Business Deal With Mentors */
+    .Earning-school-intro-heading{
+        font-size: medium;
+    }
+    .two-presentation{
+        font-size: medium;
+    }
+    .teach{
+        font-size: medium;
+        font-weight: bold;
+    }
+    /* form */
+    .skill-registration{
+        font-size: medium;
+    }
+    .Earning-school-intro-heading{
+        font-size: x-large;
+    }
 }    
