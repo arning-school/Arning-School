@@ -181,14 +181,6 @@ h5{
     margin: 1%;
 }
 
-/* Business Deal Pages */
-
-/* personal-info */
-#personal-info{
-    padding: 1% 20%;
-    text-align: center;
-}
-
 /* form_for_learners */
 #form_for_learners{
     padding: 3% 15% 3%;
@@ -199,6 +191,13 @@ h5{
 #form_for_mentors{
     padding: 3% 15% 3%;
     line-height: 3rem;
+}
+/* Business Deal Pages */
+
+/* personal-info */
+#personal-info{
+    padding: 1% 20%;
+    text-align: center;
 }
 
 #Business-deal-with-mentors{
@@ -212,8 +211,21 @@ h5{
     line-height: 4rem;
     font-size: 1.5rem;
     font-weight: bold;
+ }
+* selling deal with customer */
+#traning-detail{
+    padding: 2% 5%;
+    background-color:#ff4c68;
+    color: white;
+    line-height: normal;
 }
-
+#traning-form{
+    text-align: center;
+    padding: 3%;
+}
+.user-data{
+    height: 50px;
+}
 /* footer */
 #footer{
     width: 100%;
@@ -393,4 +405,18 @@ h5{
     .Earning-school-intro-heading{
         font-size: large;
     }
+    /* selling deal with customer */
+    #traning-detail{
+    padding: 2% 5%;
+    background-color:#ff4c68;
+    color: white;
+    line-height: normal;
+    }
+    #traning-form{
+    text-align: center;
+    padding: 3%;
+    }
+    .user-data{
+    height: 50px;
+   }
 }    
