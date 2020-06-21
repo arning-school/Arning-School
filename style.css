@@ -205,13 +205,17 @@ h5{
 }
 
 /* Business Deal of Courses with Mentors */
+#form-deal{
+    padding: 5% 5%;
+}
 .form-deal{
     padding: 2% 2% 2%;
-    background-color: rebeccapurple;
+    background-color: #ff4c68;
     line-height: 4rem;
-    font-size: 1.5rem;
-    font-weight: bold;
- }
+    font-size: 1.3rem;
+    font-weight: medium;
+    color: white
+}
 * selling deal with customer */
 #traning-detail{
     padding: 2% 5%;
@@ -388,6 +392,9 @@ h5{
         padding-bottom: 2%;
     }
     /* Business Deal With Mentors */
+    #form-deal{
+    padding: 5% 5%;
+    }
     .Earning-school-intro-heading{
         font-size: medium;
     }
