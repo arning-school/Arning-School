@@ -403,20 +403,19 @@ h5{
         font-size: medium;
     }
     .Earning-school-intro-heading{
+        font-size: x-large;
+    }
+    /* Selling deal with customer */
+    .video-presentation-heading{
         font-size: large;
+        text-align: center;
     }
-    /* selling deal with customer */
-    #traning-detail{
-    padding: 2% 5%;
-    background-color:#ff4c68;
-    color: white;
-    line-height: normal;
+    .hoster-image{
+        width: 50%;
+        height: 150px;
     }
-    #traning-form{
-    text-align: center;
-    padding: 3%;
+    .traning-topic{
+        font-size: medium;
     }
-    .user-data{
-    height: 50px;
-   }
+    
 }    
