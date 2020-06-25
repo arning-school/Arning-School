@@ -95,6 +95,7 @@ h5{
 }
 .course_para{
     text-align: left;
+    margin: 1%;
 }
 
 /* live-practcal-courses-next-pages */
@@ -192,13 +193,6 @@ h5{
     padding: 3% 15% 3%;
     line-height: 3rem;
 }
-/* Business Deal Pages */
-
-/* personal-info */
-#personal-info{
-    padding: 1% 20%;
-    text-align: center;
-}
 
 #Business-deal-with-mentors{
     padding: 2% 3%;
@@ -216,7 +210,8 @@ h5{
     font-weight: medium;
     color: white
 }
-* selling deal with customer */
+
+/* selling deal with customer */
 #traning-detail{
     padding: 2% 5%;
     background-color:#ff4c68;
@@ -229,6 +224,15 @@ h5{
 }
 .user-data{
     height: 50px;
+}
+#courses-seggstion{
+    padding: 5%;
+}
+
+/* personal-info */
+#personal-info{
+    padding: 1% 20%;
+    text-align: center;
 }
 /* footer */
 #footer{
@@ -270,6 +274,7 @@ h5{
         height: 300px;
     }
     .home-image-sub{
+        rotate: 30deg;
         width: 100%;
     }
     .home-image-lm{
@@ -312,8 +317,11 @@ h5{
     .live-practical-intro-video{
         width: 100%;
     }
+    #courses-details{
+        text-align: center;
+    }
     .courses-details-heading{
-        font-size: larger;
+        font-size: medium;
     }
     .courses{
         padding-bottom: 10%;
@@ -391,9 +399,10 @@ h5{
         line-height: normal;
         padding-bottom: 2%;
     }
+
     /* Business Deal With Mentors */
     #form-deal{
-    padding: 5% 5%;
+        padding: 5% 5%;
     }
     .Earning-school-intro-heading{
         font-size: medium;
@@ -414,7 +423,7 @@ h5{
     }
     /* Selling deal with customer */
     .video-presentation-heading{
-        font-size: medium;
+        font-size: large;
         text-align: center;
     }
     .hoster-image{
@@ -424,5 +433,10 @@ h5{
     .traning-topic{
         font-size: medium;
     }
-    
+    .unskilled-heading{
+        font-size: medium;
+    }
+    #courses-seggstion{
+        padding: 1%;
+    }
 }    
