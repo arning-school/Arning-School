@@ -306,6 +306,9 @@ h5{
     .container{
         width: 80%;
     }
+    .team-image{
+     width: 80%;
+    }
     .subscribe-heading{
       font-size: 1rem;
     }
