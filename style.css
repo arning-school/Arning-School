@@ -300,6 +300,9 @@ h5{
     }
 
    /* meet-our-team */
+    #meet-our-team{
+        padding: 0%;
+    }
     .container{
         width: 100vw;
     }
