@@ -442,4 +442,8 @@ h5{
     #courses-seggstion{
         padding: 1%;
     }
+    /* team section */
+    .team-image{
+        width: 70%;
+    }
 }    
